@@ -5,7 +5,6 @@ Melis KARA
 - Server
   * Save users which is typing data
   * Save statics of datas
-
 -	Client
   *	Sign in 
   *	Selecting which type user (doctor or patient)
