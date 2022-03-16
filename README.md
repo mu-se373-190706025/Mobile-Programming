@@ -20,11 +20,3 @@ Melis KARA
       *	Entry of datas (sugar levels)
       *	See their own datas
       *	See statics of datas
-
-- Maddde 1
-- Madde 2
-- Madde 3
-  * Alt madde a
-  * Alt madde b
-    - Fıkra i
-    - Fıkra ii
