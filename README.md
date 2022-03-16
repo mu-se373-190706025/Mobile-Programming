@@ -2,31 +2,31 @@
 
 Melis KARA
 
-•	Server
-o	Save users which is typing data
+- Server
+  * Save users which is typing data
 
-o	Save statics of datas
+  * Save statics of datas
 
-•	Client
+-	Client
 
-o	Sign in 
+  *	Sign in 
 
-o	Selecting which type user (doctor or patient)
+  *	Selecting which type user (doctor or patient)
 
-o	Show information about diabet
+  *	Show information about diabet
 
-	Doctor function:
+    -	Doctor function:
 
-	See their patients of datas (sugar levels)
+      *	See their patients of datas (sugar levels)
 
-	See statics of that datas
+      *	See statics of that datas
 
-	Patients function
+    -	Patients function
+  
+      *	Create their personal user informations (weight, height, avarage daily insulin dose used etc.)
 
-	Create their personal user informations (weight, height, avarage daily insulin dose used etc.)
+      *	Entry of datas (sugar levels)
 
-	Entry of datas (sugar levels)
+      *	See their own datas
 
-	See their own datas
-
-	See statics of datas
+      *	See statics of datas
